@@ -1,0 +1,10 @@
+C:\Users\Keskin\Desktop\PizzaSiparis\PizzaSiparis\bin\Debug\PizzaSiparis.exe.config
+C:\Users\Keskin\Desktop\PizzaSiparis\PizzaSiparis\bin\Debug\PizzaSiparis.exe
+C:\Users\Keskin\Desktop\PizzaSiparis\PizzaSiparis\bin\Debug\PizzaSiparis.pdb
+C:\Users\Keskin\Desktop\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.csproj.AssemblyReference.cache
+C:\Users\Keskin\Desktop\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.Form1.resources
+C:\Users\Keskin\Desktop\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.Properties.Resources.resources
+C:\Users\Keskin\Desktop\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.csproj.GenerateResource.cache
+C:\Users\Keskin\Desktop\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.csproj.CoreCompileInputs.cache
+C:\Users\Keskin\Desktop\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.exe
+C:\Users\Keskin\Desktop\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.pdb
